@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031094204085",
+    "project_id": "crud-3a865",
+    "storage_bucket": "crud-3a865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031094204085:android:4b9e213dbec367b5b970fc",
+        "android_client_info": {
+          "package_name": "io.preko.losd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgIb-yR4yBNuzsrENneFm9tT18mk5ql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
